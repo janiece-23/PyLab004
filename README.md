@@ -1,4 +1,4 @@
-### Reflect on how encaspulation and generaliztion helped break down the drawing proces for this secne.###
+### Reflect on how encaspulation and generaliztion helped break down the drawing process for this scene.###
 When reflecting on what the terms encapsulation adn gerealiztion, It makes me underrstand some of the perviou topics that I sturggled with. 
 # Exmaple: #def square(lenght): #Parameters are used to make the code more general.
 #               for i in range(4):
@@ -12,8 +12,8 @@ The specific issue is trying to use what I know about encapsulation and generali
 I have tried to use the AI assistance to help me find out a solution. 
 I got as far as understanding that the function that is used to create the stem is encaspulated within the definied function for the pumpkin.
 I used the AI assistant to help me refactor the code and to move both the mouth and the stem into the proper place.
-# What i changed:
-## Exmaple:  # Drawing the stem
+# What I changed:
+## Example:  # Drawing the stem
                 t.penup()       # Moves turtle up with no marks on canvas
                 t.goto(x, y + radius)   # should put turtle at the top of the circle
                 t.pendown()     # sets turtle down and begins drawing 
